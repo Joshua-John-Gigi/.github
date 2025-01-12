@@ -1,5 +1,5 @@
 👋 Hi, I’m Joshua John Gigi
 
-👀 Building solutions to streamline your business processes through websites, enterprise web applications and shopify stores
+👀 Building cloud applications using AWS, Web3D, Javascript and Python
 
 📫 You can reach me at https://www.joshuagigi.dev/contact
